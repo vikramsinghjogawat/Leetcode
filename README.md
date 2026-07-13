@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/vikramsinghjogawat/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1732-find-the-highest-altitude](https://github.com/vikramsinghjogawat/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/vikramsinghjogawat/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/vikramsinghjogawat/Leetcode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
