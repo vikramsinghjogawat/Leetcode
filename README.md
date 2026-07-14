@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0069-sqrtx) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
