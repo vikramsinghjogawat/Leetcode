@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0066-plus-one) |
 | [1331-rank-transform-of-an-array](https://github.com/vikramsinghjogawat/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/vikramsinghjogawat/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0001-two-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/vikramsinghjogawat/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
