@@ -52,3 +52,12 @@
 <ul>
 	<li><code>1 &lt;= n &lt;= 10​​​​​​​00</code></li>
 </ul>
+<h2>Approach</h2>
+We can just return n because gcd(sumEven,sunOdd) gives n as common factor by formulas:
+sumOdd = n*n
+sumEven = n(n-1)
+so out fn becomes <h2>gcd(n*n,n*(n(n-1)) --------------------(1)</h2>
+so taking common factor n gcd(n,(n-1)), since n and n-1 can never share a common factor other than 1. 
+gcd(n,(n-1)) will always evaluate to 1. 
+hence from question (1) our equation becomes = n.1 = n
+so we can return n as answer
