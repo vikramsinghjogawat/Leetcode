@@ -18,5 +18,11 @@ class Solution {
             i++;
         }
         return 0;
+
+        //Optiimized Approach
+        //for(String s:patterns){
+        //  if(word.indexOf(s)!=-1) count++;
+        //}
+        
     }
 }
