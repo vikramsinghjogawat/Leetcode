@@ -4,7 +4,7 @@ class Solution {
         int[] max = new int[n];
         int m = nums[0];
         int[] prefixGcd = new int[n];
-        //max so far
+        //max so far and combined prefixGcd filling
         for(int i=0;i<nums.length;i++){
             if(nums[i]>m) m=nums[i];
             max[i]=m;
