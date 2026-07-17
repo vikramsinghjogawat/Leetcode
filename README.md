@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0066-plus-one) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0149-max-points-on-a-line](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [1331-rank-transform-of-an-array](https://github.com/vikramsinghjogawat/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/vikramsinghjogawat/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -67,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vikramsinghjogawat/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
