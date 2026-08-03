@@ -6,7 +6,7 @@ class Solution {
         while(n>0){
             n=squareSumOfDigits(n);
             
-            System.out.print(n+",");
+            //System.out.print(n+",");
             if(n==1) return true;
             if(hm.containsKey(n)){
                 return false;
