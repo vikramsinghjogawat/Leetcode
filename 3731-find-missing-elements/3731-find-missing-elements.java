@@ -14,7 +14,6 @@ class Solution {
                 res.add(i);
             }
         }
-        //System.out.println(res);
         return res;
     }
 }
