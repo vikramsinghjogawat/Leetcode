@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0149-max-points-on-a-line](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/vikramsinghjogawat/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vikramsinghjogawat/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0202-happy-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vikramsinghjogawat/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
