@@ -5,7 +5,6 @@ class Solution {
         if(nums.length==0) return 0;
         if(nums.length<=1 && nums[0]!=val) return 1;
         if(nums.length<=1 && nums[0]==val) return 0;
-        int p =0;
 
         while(i<j){
             
