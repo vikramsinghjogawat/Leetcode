@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0149-max-points-on-a-line](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/vikramsinghjogawat/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0877-stone-game) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vikramsinghjogawat/Leetcode/tree/master/0202-happy-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vikramsinghjogawat/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
