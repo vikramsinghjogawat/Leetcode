@@ -7,9 +7,6 @@ class Solution {
                 least=prices[i];
             profits[i] = prices[i]-least;
         }
-        for(int i=0;i<prices.length;i++){
-            System.out.println(profits[i]);
-        }
         return (int)Arrays.stream(profits).map(i->(Integer)i).max().getAsInt();
     }
 }
