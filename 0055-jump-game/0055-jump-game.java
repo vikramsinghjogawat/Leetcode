@@ -7,6 +7,6 @@ class Solution {
             maxReach = Math.max(maxReach,i+nums[i]);
             if(maxReach>=goal) return true;
         }
-        return true;
+        return false;
     }
 }
